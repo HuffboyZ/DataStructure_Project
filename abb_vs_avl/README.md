@@ -1,4 +1,4 @@
-# ABB vs AVL
+# BST vs AVL
 
 A test to compare de differences between these structures
 
